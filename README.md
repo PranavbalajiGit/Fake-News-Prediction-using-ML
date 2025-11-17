@@ -131,8 +131,9 @@ The perfect accuracy (100% on both training and testing) suggests:
 
 ## License
 
-[Specify your license here]
+This project is open source and available under the [MIT License](LICENSE)
 
 ## Author
 
-[Your name/contact information]
+**PRANAV BALAJI P MA**
+- GitHub: [@PranavbalajiGit](https://github.com/PranavbalajiGit)
